@@ -1,0 +1,11 @@
+#
+#
+#
+#
+#
+#
+#
+pandas
+jupyter
+matplotlib
+requests==2.28.2
